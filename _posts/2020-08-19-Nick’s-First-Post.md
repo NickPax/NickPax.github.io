@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A New Post
 
@@ -25,4 +25,3 @@ Duis rutrum eget ex a finibus. Ut elementum porta suscipit. Duis in euismod est.
 Nullam congue ex ut lacus malesuada dapibus. Donec felis erat, blandit at fermentum at, rutrum eget augue. Quisque consequat ligula sit amet ornare fringilla. Cras tristique elit id ligula sagittis sagittis. Praesent mollis diam libero, quis accumsan arcu imperdiet ac. Proin a quam non leo rutrum volutpat. Nunc vitae scelerisque justo.
 
 Maecenas dapibus laoreet feugiat. Nunc ante velit, dignissim eget dolor et, tincidunt rhoncus lacus. Fusce libero lorem, convallis id molestie nec, tristique eu risus. Integer urna nulla, tincidunt id dignissim sed, eleifend vitae ante. In nec orci ut mi vestibulum sollicitudin. Proin consequat accumsan aliquet. Aliquam fringilla, elit in dictum imperdiet, orci quam aliquam sem, ac pellentesque quam nibh volutpat lorem. Nam ornare, elit a venenatis malesuada, magna libero rutrum nisl, vitae luctus odio ante vel risus. Maecenas vehicula nibh dolor. Aliquam mattis vel neque id bibendum
-
