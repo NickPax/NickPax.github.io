@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+
 
 ![an image alt text]({{ site.baseurl }}/images/Just-so-Im-clear.png "an image title")
 
