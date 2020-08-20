@@ -3,16 +3,7 @@ published: true
 ---
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-##
-
-Title![Snippet ]({{site.baseurl}}/_posts/Just%20so%20I%E2%80%99m%20clear.png)![Just so I’m clear.png]({{site.baseurl}}/_posts/Just so I’m clear.png)
-
-
-###
-
-Subheading
+![an image alt text]({{ site.baseurl }}/images/Just so I’m clear.png "an image title")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Nulla vel porta nulla. Nunc lobortis lorem in leo sagittis, non blandit mauris eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ipsum id nibh tempus scelerisque. Nunc vitae libero nisl. Donec eu nulla est. Vivamus ut elit varius, iaculis nulla at, lacinia mi. In sodales urna consequat neque tincidunt, vitae molestie velit pellentesque. Ut magna purus, viverra sit amet tempor sodales, aliquam id risus.
 
